@@ -1,2 +1,2 @@
 # WebScraping
-Wow I can edit file
+เพื่อศึกษาและทำความเข้าใจไปพร้อม ๆ กัน
